@@ -18,7 +18,7 @@ public class TestGreeter {
       assertEquals(g.getName(),"");
       assertEquals(g.sayHello(),"Hello!");
    }
-    
+    /*
     //Success
     @Test
     public void newTestMCSreeterPass()
@@ -27,7 +27,7 @@ public class TestGreeter {
         assertEquals(g.getName(), "World");
         
     }
-    
+    */
     
     //Failure
     @Test
