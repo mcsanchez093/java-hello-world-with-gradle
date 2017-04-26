@@ -18,7 +18,7 @@ public class TestGreeter {
       assertEquals(g.getName(),"");
       assertEquals(g.sayHello(),"Hello!");
    }
-    /*
+    
     //Success
     @Test
     public void newTestMCSreeterPass()
@@ -27,8 +27,8 @@ public class TestGreeter {
         assertEquals(g.getName(), "World");
         
     }
-    */
     
+    /*
     //Failure
     @Test
     public void newtestMCSGreeterFail()
@@ -36,7 +36,7 @@ public class TestGreeter {
         g.setName("failure");
         assertEquals(g.getName(), "MCSTestFailure");
     }
-    
+    */
     
    @Test
     public void testGreeter()    
